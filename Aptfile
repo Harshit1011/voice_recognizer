@@ -4,4 +4,5 @@ python-dev
 python-numpy 
 python-setuptools 
 libsndfile-dev
-libportaudio2
+libportaudio2-dev
+libportaudio-dev
